@@ -12,4 +12,5 @@ dependencies:
   - ipywidgets=7.6.5
   - nltk=3.6.5
   - python-crfsuite
+  - matplotlib
 prefix: /Users/es1595/opt/anaconda3/envs/data_analytics
