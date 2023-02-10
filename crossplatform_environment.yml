@@ -1,0 +1,15 @@
+name: data_analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab=3.2.9
+  - gensim=4.1.2
+  - scikit-learn=1.0.2
+  - sklearn-crfsuite=0.3.6
+  - datasets=1.18.3
+  - ipywidgets=7.6.5
+  - nltk=3.6.5
+  - python-crfsuite
+prefix: /Users/es1595/opt/anaconda3/envs/data_analytics
